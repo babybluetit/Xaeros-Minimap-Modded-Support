@@ -1,0 +1,23 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.8,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 20,
+			"modelPartsFields" : [
+				"com.minecraftabnormals.autumnity.client.renderer.entity.model.SnailModel;eye1",
+				"com.minecraftabnormals.autumnity.client.renderer.entity.model.SnailModel;eye2"
+			],
+			"modelMainPartFieldAliases" : [
+				"com.minecraftabnormals.autumnity.client.renderer.entity.model.SnailModel;body"
+			],
+			"modelPartsRotationReset" : false
+		}
+	]
+}
