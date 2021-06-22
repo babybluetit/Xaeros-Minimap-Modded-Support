@@ -4,10 +4,13 @@
 ### Currently Supported:
 
 * [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+* [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
+* [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental) *
 * [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)
 * [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+###### Mods marked with an asterisk (*) are mostly supported, but may be missing one or two mobs.
 
 ### Requests
 
