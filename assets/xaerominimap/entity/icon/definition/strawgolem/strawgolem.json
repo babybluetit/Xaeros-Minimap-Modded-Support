@@ -1,0 +1,6 @@
+{
+	"variants" : {
+		"strawgolem:textures/entity/dying_golem.png" : "sprite:strawgolem-dying.png",
+		"default" : "sprite:strawgolem.png"
+	}
+}
