@@ -1,0 +1,15 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"modelMainPartFieldAliases" : [
+				"net.minecraft.client.renderer.entity.model.SlimeModel;cube"
+			],
+			"renderingFullModel" : true,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}
