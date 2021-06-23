@@ -1,0 +1,25 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.8,
+			"rotationY" : 0,
+			"rotationX" : 10,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+				"twilightforest.client.model.entity.ModelTFDeer;rightAntler",
+				"twilightforest.client.model.entity.ModelTFDeer;leftAntler"
+			],
+			"modelMainPartFieldAliases" : [
+				"twilightforest.client.model.entity.ModelTFDeer;neck"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}
