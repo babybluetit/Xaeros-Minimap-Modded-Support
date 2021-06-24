@@ -1,5 +1,9 @@
 {
 	"variants" : {
+		"mysticalworld:textures/entity/sprout_green.png" : "sprite:sprout_green.png",
+		"mysticalworld:textures/entity/sprout_purple.png" : "sprite:sprout_purple.png",
+		"mysticalworld:textures/entity/sprout_red.png" : "sprite:sprout_red.png",
+		"mysticalworld:textures/entity/sprout_tan.png" : "sprite:sprout_tan.png",
 		"default" : "model:0"
 	},
 	"modelConfigs" : [
