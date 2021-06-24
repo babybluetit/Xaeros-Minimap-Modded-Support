@@ -1,0 +1,26 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.9,
+			"rotationY" : 90,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : -2,
+            "modelPartsFields" : [
+                "com.minecraftabnormals.upgrade_aquatic.client.model.LionfishModel;topfin",
+                "com.minecraftabnormals.upgrade_aquatic.client.model.LionfishModel;head",
+                "com.minecraftabnormals.upgrade_aquatic.client.model.LionfishModel;headFin"
+            ],
+			"modelMainPartFieldAliases" : [
+				"com.minecraftabnormals.upgrade_aquatic.client.model.LionfishModel;body"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : false
+		}
+	]
+}

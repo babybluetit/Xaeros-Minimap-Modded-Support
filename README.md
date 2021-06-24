@@ -11,6 +11,8 @@
 * [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)
 * [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 * [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) *
+* [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
+
 ###### Mods marked with an asterisk (*) are mostly supported, but may be missing one or two mobs.
 
 ### Requests
