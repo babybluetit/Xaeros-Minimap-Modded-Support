@@ -1,0 +1,20 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.9,
+			"rotationY" : 70,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : -10,
+			"offsetY" : -4,
+			"modelMainPartFieldAliases" : [
+				"com.minecraftabnormals.environmental.client.model.KoiModel;Body1"
+			],
+			"renderingFullModel" : true,
+			"modelPartsRotationReset" : false
+		}
+	]
+}
