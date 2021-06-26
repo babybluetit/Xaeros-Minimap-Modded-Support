@@ -1,0 +1,7 @@
+{
+	"variants" : {
+		"alexsmobs:textures/entity/moose.png" : "sprite:alexsmobs/moose.png",
+        "alexsmobs:textures/entity/moose_antlered.png" : "sprite:alexsmobs/moose_antlered.png",
+		"default" : "sprite:alexsmobs/moose.png"
+	}
+}

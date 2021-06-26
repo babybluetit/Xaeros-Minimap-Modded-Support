@@ -1,0 +1,7 @@
+{
+	"variantIdBuilderMethod" : "xaero.common.minimap.render.radar.EntityIconDefinitions.buildVariantIdString",
+	"variants" : {
+		"alexsmobs:textures/entity/grizzly_bear.png%HONEY" : "sprite:alexsmobs/grizzly_bear_honey.png",
+		"default" : "sprite:alexsmobs/grizzly_bear.png"
+	}
+}

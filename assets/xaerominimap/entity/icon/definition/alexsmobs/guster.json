@@ -1,0 +1,6 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/guster_silly.png" : "sprite:alexsmobs/guster_silly.png",
+		"default" : "sprite:alexsmobs/guster.png"
+	}
+}

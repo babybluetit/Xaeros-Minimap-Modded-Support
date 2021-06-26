@@ -1,0 +1,8 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/mantis_shrimp_0.png" : "sprite:alexsmobs/mantis_shrimp_0.png",
+		"alexsmobs:textures/entity/mantis_shrimp_1.png" : "sprite:alexsmobs/mantis_shrimp_1.png",
+        "alexsmobs:textures/entity/mantis_shrimp_2.png" : "sprite:alexsmobs/mantis_shrimp_2.png",
+        "default" : "sprite:alexsmobs/mantis_shrimp_0.png"
+	}
+}

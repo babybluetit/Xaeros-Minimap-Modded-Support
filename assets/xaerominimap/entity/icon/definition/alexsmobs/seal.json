@@ -1,0 +1,6 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/seal_arctic.png" : "sprite:alexsmobs/seal_arctic.png",
+		"default" : "sprite:alexsmobs/seal.png"
+	}
+}
