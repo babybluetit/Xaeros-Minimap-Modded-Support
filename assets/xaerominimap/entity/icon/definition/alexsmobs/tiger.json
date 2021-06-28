@@ -1,0 +1,6 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/tiger/tiger_white.png" : "sprite:alexsmobs/tiger_white.png",
+		"default" : "sprite:alexsmobs/tiger.png"
+	}
+}

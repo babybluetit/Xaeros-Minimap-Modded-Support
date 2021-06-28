@@ -1,0 +1,9 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/mimic_octopus_creeper.png" : "sprite:alexsmobs/mimic_octopus_creeper.png",
+        "alexsmobs:textures/entity/mimic_octopus_guardian.png" : "sprite:alexsmobs/mimic_octopus_guardian.png",
+        "alexsmobs:textures/entity/mimic_octopus_minicube.png" : "sprite:alexsmobs/mimic_octopus_minicube.png",
+        "alexsmobs:textures/entity/mimic_octopus_pufferfish.png" : "sprite:alexsmobs/mimic_octopus_pufferfish.png",
+		"default" : "sprite:alexsmobs/mimic_octopus.png"
+	}
+}

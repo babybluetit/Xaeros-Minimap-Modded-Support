@@ -1,0 +1,8 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/frilled_shark_depressurized.png" : "sprite:alexsmobs/frilled_shark_depressurized.png",
+        "alexsmobs:textures/entity/frilled_shark_kaiju.png" : "sprite:alexsmobs/frilled_shark_kaiju.png",
+        "alexsmobs:textures/entity/frilled_shark_kaiju_depressurized.png" : "sprite:alexsmobs/frilled_shark_kaiju_depressurized.png",
+		"default" : "sprite:alexsmobs/frilled_shark.png"
+	}
+}
