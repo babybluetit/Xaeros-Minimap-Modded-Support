@@ -1,0 +1,7 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/cachalot/cachalot_whale_albino.png" : "sprite:alexsmobs/cachalot_whale_albino.png",
+        "alexsmobs:textures/entity/cachalot/cachalot_whale_albino_sleeping.png" : "sprite:alexsmobs/cachalot_whale_albino.png",
+		"default" : "sprite:alexsmobs/cachalot_whale.png"
+	}
+}

@@ -1,8 +1,5 @@
 {
 	"variants" : {
-		"alexsmobs:textures/entity/bone_serpent_head" : "sprite:alexsmobs/bone_serpent_head.png",
-		"alexsmobs:textures/entity/bone_serpent_mid" : "sprite:alexsmobs/bone_serpent_mid.png",
-		"alexsmobs:textures/entity/bone_serpent_tail" : "sprite:alexsmobs/bone_serpent_tail.png",
 		"default" : "sprite:alexsmobs/bone_serpent_head.png"
 	}
 }
