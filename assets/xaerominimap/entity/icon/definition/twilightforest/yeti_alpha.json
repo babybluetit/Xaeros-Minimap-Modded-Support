@@ -1,0 +1,26 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.2,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+				"twilightforest.client.model.entity.ModelTFYetiAlpha;mouth",
+				"twilightforest.client.model.entity.ModelTFYetiAlpha;leftEye",
+				"twilightforest.client.model.entity.ModelTFYetiAlpha;rightEye"
+			],
+			"modelMainPartFieldAliases" : [
+				"twilightforest.client.model.entity.ModelTFYetiAlpha;bipedBody"
+			],
+			"renderingFullModel" : true,
+			"modelPartsRotationReset" : true,
+			"layersAllowed" : true
+		}
+	]
+}

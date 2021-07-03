@@ -1,0 +1,24 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.6,
+			"rotationY" : 0,
+			"rotationX" : 35,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+				"twilightforest.client.model.entity.ModelTFQuestRam;horns"
+			],
+			"modelMainPartFieldAliases" : [
+				"twilightforest.client.model.entity.ModelTFQuestRam;head"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : true,
+			"layersAllowed" : true
+		}
+	]
+}
