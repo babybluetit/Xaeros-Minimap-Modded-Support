@@ -9,6 +9,7 @@
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental) *
+* [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
 * [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
 * [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)
 * [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
