@@ -1,0 +1,29 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.6,
+			"rotationY" : 90,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+            "modelPartsFields" : [
+                "animalium.client.model.ModelPiranha;jawBottom",
+                "animalium.client.model.ModelPiranha;head",
+                "animalium.client.model.ModelPiranha;finDorsal",
+                "animalium.client.model.ModelPiranha;finL",
+                "animalium.client.model.ModelPiranha;toothBL",
+                "animalium.client.model.ModelPiranha;toothTL"
+            ],
+			"modelMainPartFieldAliases" : [
+				"animalium.client.model.ModelPiranha;bodyMain"			
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

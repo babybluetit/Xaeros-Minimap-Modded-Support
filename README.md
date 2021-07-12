@@ -3,6 +3,7 @@
 
 ### Currently Supported:
 
+* [Animalium](https://www.curseforge.com/minecraft/mc-mods/animalium)
 * [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 * [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 * [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)

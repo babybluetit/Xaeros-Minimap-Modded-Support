@@ -1,0 +1,27 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1.2,
+			"rotationY" : 0,
+			"rotationX" : 200,
+			"rotationZ" : 180,
+			"offsetX" : 0,
+			"offsetY" : 0,
+            "modelPartsFields" : [
+                "animalium.client.model.ModelBear;l_ear",
+                "animalium.client.model.ModelBear;r_ear",
+                "animalium.client.model.ModelBear;lower_jaw",
+                "animalium.client.model.ModelBear;upper_jaw"
+            ],
+			"modelMainPartFieldAliases" : [
+				"animalium.client.model.ModelBear;head"			
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}
