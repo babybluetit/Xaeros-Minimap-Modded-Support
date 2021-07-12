@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "iceandfire:textures/models/myrmex/myrmex_desert_queen.png" : "sprite:iceandfire/myrmex_queen_desert.png",
+        "iceandfire:textures/models/myrmex/myrmex_jungle_queen.png" : "sprite:iceandfire/myrmex_queen_jungle.png",
+        "default" : "sprite:iceandfire/myrmex_queen_desert.png"
+    }
+}

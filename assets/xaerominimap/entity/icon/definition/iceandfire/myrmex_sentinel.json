@@ -1,0 +1,9 @@
+{
+    "variants" : {
+        "iceandfire:textures/models/myrmex/myrmex_desert_sentinel.png" : "sprite:iceandfire/myrmex_sentinel_desert.png",
+        "iceandfire:textures/models/myrmex/myrmex_desert_sentinel_hidden.png" : "sprite:iceandfire/myrmex_sentinel_desert_hidden.png",
+        "iceandfire:textures/models/myrmex/myrmex_jungle_sentinel.png" : "sprite:iceandfire/myrmex_sentinel_jungle.png",
+        "iceandfire:textures/models/myrmex/myrmex_jungle_sentinel_hidden.png" : "sprite:iceandfire/myrmex_sentinel_jungle_hidden.png",
+        "default" : "sprite:iceandfire/myrmex_sentinel_desert.png"
+    }
+}
