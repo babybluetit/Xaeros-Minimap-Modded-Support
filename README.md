@@ -12,6 +12,7 @@
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental) *
 * [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
 * [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
+* [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 * [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)
 * [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 * [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
