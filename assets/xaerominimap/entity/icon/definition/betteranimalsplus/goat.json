@@ -1,0 +1,47 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1,
+			"rotationY" : 0,
+			"rotationX" : -20,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+                "its_meow.betteranimalsplus.client.model.ModelGoat;snout",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;upperJaw01",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;upperJaw02",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lowerJaw",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn01a",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn01a",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn01b",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn01c",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn01d",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn02a",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn02b",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn02c",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn02d",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn03",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;lHorn04",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn01b",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn01c",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn01d",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn02a",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn02b",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn02c",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn02d",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn03",
+                "its_meow.betteranimalsplus.client.model.ModelGoat;rHorn04"
+			],
+			"modelMainPartFieldAliases" : [
+				"its_meow.betteranimalsplus.client.model.ModelGoat;head"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

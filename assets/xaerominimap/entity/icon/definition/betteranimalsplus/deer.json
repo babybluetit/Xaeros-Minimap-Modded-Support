@@ -1,0 +1,58 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+                "its_meow.betteranimalsplus.client.model.ModelDeer;snout",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;upperJaw",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lEar",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rEar",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler01",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler01",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lowerJaw",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler02",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler01b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler03",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler04",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler03b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler04b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler05",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler06",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler07",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler06b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler08",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler07b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler08b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;lAntler08c",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler02",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler01b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler03",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler04",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler03b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler04b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler05",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler06",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler07",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler06b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler08",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler07b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler08b",
+                "its_meow.betteranimalsplus.client.model.ModelDeer;rAntler08c"
+			],
+			"modelMainPartFieldAliases" : [
+				"its_meow.betteranimalsplus.client.model.ModelDeer;head"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

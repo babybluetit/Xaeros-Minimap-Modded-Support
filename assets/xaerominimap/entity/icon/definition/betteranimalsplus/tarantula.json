@@ -1,0 +1,27 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+                "its_meow.betteranimalsplus.client.model.ModelTarantula;lFang01",
+                "its_meow.betteranimalsplus.client.model.ModelTarantula;lFang02",
+                "its_meow.betteranimalsplus.client.model.ModelTarantula;rFang01",
+				"its_meow.betteranimalsplus.client.model.ModelTarantula;rFang02"
+			],
+			"modelMainPartFieldAliases" : [
+				"its_meow.betteranimalsplus.client.model.ModelTarantula;head"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

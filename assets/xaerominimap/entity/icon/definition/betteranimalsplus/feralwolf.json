@@ -1,0 +1,33 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1,
+			"rotationY" : 0,
+			"rotationX" : -30,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+                "its_meow.betteranimalsplus.client.model.ModelFeralWolf;jawUpper01",
+                "its_meow.betteranimalsplus.client.model.ModelFeralWolf;jawLower",
+                "its_meow.betteranimalsplus.client.model.ModelFeralWolf;lEar01",
+                "its_meow.betteranimalsplus.client.model.ModelFeralWolf;rEar01",
+				"its_meow.betteranimalsplus.client.model.ModelFeralWolf;lCheekFur",
+                "its_meow.betteranimalsplus.client.model.ModelFeralWolf;rCheekFur",
+                "its_meow.betteranimalsplus.client.model.ModelFeralWolf;snout",
+                "its_meow.betteranimalsplus.client.model.ModelFeralWolf;jawUpper02",
+                "its_meow.betteranimalsplus.client.model.ModelFeralWolf;lEar02",
+                "its_meow.betteranimalsplus.client.model.ModelFeralWolf;rEar02"
+			],
+			"modelMainPartFieldAliases" : [
+				"its_meow.betteranimalsplus.client.model.ModelFeralWolf;head"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}
