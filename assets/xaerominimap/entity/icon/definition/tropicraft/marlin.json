@@ -1,0 +1,29 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.6,
+			"rotationY" : 90,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+                "net.tropicraft.core.client.entity.model.MarlinModel;dorsalFin1",
+                "net.tropicraft.core.client.entity.model.MarlinModel;leftFin",
+                "net.tropicraft.core.client.entity.model.MarlinModel;rightFin",
+                "net.tropicraft.core.client.entity.model.MarlinModel;bottomFin",
+                "net.tropicraft.core.client.entity.model.MarlinModel;head",
+                "net.tropicraft.core.client.entity.model.MarlinModel;tail"
+			],
+			"modelMainPartFieldAliases" : [
+				"net.tropicraft.core.client.entity.model.MarlinModel;body"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1.5,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+                "net.tropicraft.core.client.entity.model.IguanaModel;headTop1",
+                "net.tropicraft.core.client.entity.model.IguanaModel;HeadTop2",
+                "net.tropicraft.core.client.entity.model.IguanaModel;jaw"
+			],
+			"modelMainPartFieldAliases" : [
+				"net.tropicraft.core.client.entity.model.IguanaModel;head"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

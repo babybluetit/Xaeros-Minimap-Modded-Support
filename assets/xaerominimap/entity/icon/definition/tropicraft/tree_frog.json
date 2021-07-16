@@ -1,0 +1,25 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1.2,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+                "net.tropicraft.core.client.entity.model.TreeFrogModel;rightEye",
+                "net.tropicraft.core.client.entity.model.TreeFrogModel;leftEye"
+            ],
+			"modelMainPartFieldAliases" : [
+				"net.tropicraft.core.client.entity.model.TreeFrogModel;body"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}
