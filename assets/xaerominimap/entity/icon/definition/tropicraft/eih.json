@@ -11,7 +11,7 @@
 			"offsetX" : 0,
 			"offsetY" : 0,
 			"modelMainPartFieldAliases" : [
-				"net.tropicraft.core.client.entity.model.SeaUrchinModel;base"
+				"net.tropicraft.core.client.entity.model.EIHModel;body"
 			],
 			"renderingFullModel" : true,
 			"modelPartsRotationReset" : false,

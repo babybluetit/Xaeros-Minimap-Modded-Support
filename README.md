@@ -16,7 +16,7 @@
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 * [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)
 * [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
-* [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft) *
+* [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft)
 * [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 * [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic) *
 
