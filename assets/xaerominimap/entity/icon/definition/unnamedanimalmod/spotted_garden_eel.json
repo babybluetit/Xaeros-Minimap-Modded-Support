@@ -1,0 +1,21 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1.8,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelMainPartFieldAliases" : [
+				"teamdraco.unnamedanimalmod.client.model.SpottedGardenEelModel;body"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

@@ -18,6 +18,7 @@
 * [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 * [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft)
 * [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+* [Unnamed Animal Mod](https://www.curseforge.com/minecraft/mc-mods/unnamed-animal-mod)
 * [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic) *
 
 ###### Mods marked with an asterisk (*) are a WIP - mostly supported, but may be missing one or two mobs.
