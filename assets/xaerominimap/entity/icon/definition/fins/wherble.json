@@ -1,0 +1,10 @@
+{
+	"variants" : {
+        "fins:textures/entity/wherble/wherble_1.png" : "sprite:fins/wherble_1.png",
+        "fins:textures/entity/wherble/wherble_2.png" : "sprite:fins/wherble_2.png",
+        "fins:textures/entity/wherble/wherble_3.png" : "sprite:fins/wherble_3.png",
+        "fins:textures/entity/wherble/wherble_4.png" : "sprite:fins/wherble_4.png",
+        "fins:textures/entity/wherble/child.png" : "sprite:fins/wherble_child.png",
+		"default" : "sprite:fins/wherble_1.png"
+	}
+}

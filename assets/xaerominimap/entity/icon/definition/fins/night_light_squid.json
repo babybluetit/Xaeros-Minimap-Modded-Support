@@ -1,0 +1,9 @@
+{
+	"variants" : {
+        "fins:textures/entity/night_light_squid/night_light_squid_1.png" : "sprite:fins/night_light_squid_1.png",
+        "fins:textures/entity/night_light_squid/night_light_squid_2.png" : "sprite:fins/night_light_squid_2.png",
+        "fins:textures/entity/night_light_squid/night_light_squid_3.png" : "sprite:fins/night_light_squid_3.png",
+        "fins:textures/entity/night_light_squid/night_light_squid_4.png" : "sprite:fins/night_light_squid_4.png",
+		"default" : "sprite:fins/night_light_squid_1.png"
+	}
+}

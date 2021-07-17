@@ -11,6 +11,7 @@
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental) *
+* [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
 * [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
 * [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
