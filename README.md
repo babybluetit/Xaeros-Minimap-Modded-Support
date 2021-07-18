@@ -8,11 +8,13 @@
 * [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 * [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) *
+* [Caves & Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental) *
 * [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
-* [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
+* [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
+* [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 * [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 * [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)

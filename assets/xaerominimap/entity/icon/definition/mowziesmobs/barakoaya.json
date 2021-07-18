@@ -1,0 +1,11 @@
+{
+    "variants" : {
+        "mowziesmobs:textures/entity/barakoa_bliss.png" : "sprite:mowziesmobs/barakoa_bliss.png",
+        "mowziesmobs:textures/entity/barakoa_faith.png" : "sprite:mowziesmobs/barakoa_faith.png",
+        "mowziesmobs:textures/entity/barakoa_fear.png" : "sprite:mowziesmobs/barakoa_fear.png",
+        "mowziesmobs:textures/entity/barakoa_fury.png" : "sprite:mowziesmobs/barakoa_fury.png",
+        "mowziesmobs:textures/entity/barakoa_misery.png" : "sprite:mowziesmobs/barakoa_misery.png",
+        "mowziesmobs:textures/entity/barakoa_rage.png" : "sprite:mowziesmobs/barakoa_rage.png",
+        "default" : "sprite:mowziesmobs/barakoa_bliss.png"
+    }
+}
