@@ -8,8 +8,8 @@
 			"rotationY" : 90,
 			"rotationX" : 0,
 			"rotationZ" : 0,
-			"offsetX" : -8,
-			"offsetY" : 2,
+			"offsetX" : 0,
+			"offsetY" : 0,
 			"modelMainPartFieldAliases" : [
 				"its_meow.betteranimalsplus.client.model.ModelLamprey;body01"
 			],

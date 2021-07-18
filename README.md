@@ -7,11 +7,11 @@
 * [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 * [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 * [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)
-* [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) *
+* [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
 * [Caves & Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
-* [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental) *
+* [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
 * [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
 * [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
 * [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
@@ -22,7 +22,7 @@
 * [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft)
 * [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 * [Unnamed Animal Mod](https://www.curseforge.com/minecraft/mc-mods/unnamed-animal-mod)
-* [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic) *
+* [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
 
 ###### Mods marked with an asterisk (*) are a WIP - mostly supported, but may be missing one or two mobs.
 

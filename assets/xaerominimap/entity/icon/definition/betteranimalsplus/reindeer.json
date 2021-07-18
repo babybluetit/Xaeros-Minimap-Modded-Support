@@ -4,7 +4,7 @@
 	},
 	"modelConfigs" : [
 		{
-			"baseScale" : 1,
+			"baseScale" : 0.8,
 			"rotationY" : 0,
 			"rotationX" : -45,
 			"rotationZ" : 0,

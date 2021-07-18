@@ -4,18 +4,17 @@
 	},
 	"modelConfigs" : [
 		{
-			"baseScale" : 1.2,
+			"baseScale" : 0.2,
 			"rotationY" : 0,
-			"rotationX" : -20,
+			"rotationX" : -90,
 			"rotationZ" : 0,
 			"offsetX" : 0,
 			"offsetY" : 0,
-			
 			"modelMainPartFieldAliases" : [
-				"its_meow.betteranimalsplus.client.model.ModelCoyote;head"
+				"its_meow.betteranimalsplus.client.model.ModelButterfly;thorax"
 			],
 			"renderingFullModel" : false,
-			"modelPartsRotationReset" : false,
+			"modelPartsRotationReset" : true,
 			"layersAllowed" : true
 		}
 	]

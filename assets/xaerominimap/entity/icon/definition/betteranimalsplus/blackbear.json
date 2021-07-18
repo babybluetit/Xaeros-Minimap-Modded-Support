@@ -4,23 +4,12 @@
 	},
 	"modelConfigs" : [
 		{
-			"baseScale" : 1,
+			"baseScale" : 1.2,
 			"rotationY" : 0,
 			"rotationX" : 0,
 			"rotationZ" : 0,
 			"offsetX" : 0,
 			"offsetY" : 0,
-			"modelPartsFields" : [
-                "its_meow.betteranimalsplus.client.model.ModelBear;lEar01",
-                "its_meow.betteranimalsplus.client.model.ModelBear;lEarSmall",
-                "its_meow.betteranimalsplus.client.model.ModelBear;rEar01",
-                "its_meow.betteranimalsplus.client.model.ModelBear;rEarSmall",
-				"its_meow.betteranimalsplus.client.model.ModelBear;upperJaw",
-                "its_meow.betteranimalsplus.client.model.ModelBear;lowerJaw",
-                "its_meow.betteranimalsplus.client.model.ModelBear;snout",
-                "its_meow.betteranimalsplus.client.model.ModelBear;lEar02",
-                "its_meow.betteranimalsplus.client.model.ModelBear;rEar02"
-			],
 			"modelMainPartFieldAliases" : [
 				"its_meow.betteranimalsplus.client.model.ModelBear;head"
 			],
