@@ -1,0 +1,6 @@
+{
+	"variants" : {
+		"outer_end:textures/entity/entombed_amogus.png" : "sprite:outer_end/entombed_amogus.png",
+		"default" : "sprite:outer_end/entombed.png"
+	}
+}

@@ -14,13 +14,15 @@
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
 * [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
 * [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
+* [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 * [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 * [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
+* [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 * [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)
 * [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 * [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft)
-* [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+* [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 * [Unnamed Animal Mod](https://www.curseforge.com/minecraft/mc-mods/unnamed-animal-mod)
 * [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
 
