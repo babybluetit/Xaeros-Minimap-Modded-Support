@@ -13,7 +13,7 @@
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
 * [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
-* [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
+* [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 * [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 * [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 * [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
