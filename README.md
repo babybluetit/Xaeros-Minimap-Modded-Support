@@ -15,6 +15,8 @@
 * [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
 * [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 * [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
+* [Jellyfishing](https://www.curseforge.com/minecraft/mc-mods/jellyfishing)
+* [More Jellyfish](https://www.curseforge.com/minecraft/mc-mods/more-jellyfish)
 * [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 * [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
 * [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)
