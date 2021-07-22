@@ -9,6 +9,7 @@
 * [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 * [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
+* [BetterEnd (Forge)](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
 * [Caves & Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
 * [Dungeons Mobs](https://www.curseforge.com/minecraft/mc-mods/dungeons-mobs)
