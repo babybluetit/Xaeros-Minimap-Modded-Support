@@ -1,5 +1,6 @@
 # Xaero's Minimap - Modded Support
- Adds icons to Xaero's Minimap for a range of modded mobs.
+ Adds icons to Xaero's Minimap for a range of modded mobs. A mixture of yellow dots and icons on the minimap can be annoying, so this pack aims to help players and modpack makers by supporting as many mods as possible.
+ The pack can be downloaded here, or from the [Curseforge page](https://www.curseforge.com/minecraft/texture-packs/xaeros-minimap-modded-support).
 
 ### Currently Supported:
 
@@ -10,10 +11,11 @@
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
 * [Caves & Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
+* [Dungeons Mobs](https://www.curseforge.com/minecraft/mc-mods/dungeons-mobs)
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
 * [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
-* [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+* [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
 * [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 * [Jellyfishing](https://www.curseforge.com/minecraft/mc-mods/jellyfishing)
 * [More Jellyfish](https://www.curseforge.com/minecraft/mc-mods/more-jellyfish)
