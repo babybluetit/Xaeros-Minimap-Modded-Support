@@ -1,0 +1,6 @@
+{
+    "variants" : {
+        "ars_nouveau:textures/entity/stalker_angry.png" : "sprite:ars_nouveau/stalker_angry.png",
+        "default" : "sprite:ars_nouveau/stalker.png"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants" : {
+        "ars_nouveau:textures/entity/sylph_winter.png" : "sprite:ars_nouveau/sylph_winter.png",
+        "ars_nouveau:textures/entity/sylph_autumn.png" : "sprite:ars_nouveau/sylph_autumn.png",
+        "ars_nouveau:textures/entity/sylph_spring.png" : "sprite:ars_nouveau/sylph_spring.png",
+        "ars_nouveau:textures/entity/sylph_summer.png" : "sprite:ars_nouveau/sylph_summer.png",
+        "default" : "sprite/ars_nouveau/sylph_spring.png"
+    }
+}

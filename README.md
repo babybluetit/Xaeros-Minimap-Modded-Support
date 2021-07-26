@@ -4,9 +4,11 @@
 
 ### Currently Supported:
 
-* [Animalium](https://www.curseforge.com/minecraft/mc-mods/animalium)
 * [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
+* [Animalium](https://www.curseforge.com/minecraft/mc-mods/animalium)
 * [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+* [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+* [Atum 2: Return to the Sands](https://www.curseforge.com/minecraft/mc-mods/atum)
 * [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
 * [BetterEnd (Forge)](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
@@ -16,6 +18,7 @@
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
 * [Dungeons Mobs](https://www.curseforge.com/minecraft/mc-mods/dungeons-mobs)
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
+* [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
 * [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
 * [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *

@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "endergetic:textures/entity/booflo/booflo_snake.png" : "sprite:endergetic/booflo_snake.png",
+        "endergetic:textures/entity/booflo/booflo_cam.png" : "sprite:endergetic/booflo_cam.png",
+        "default" : "sprite:endergetic/booflo.png"
+    }
+}

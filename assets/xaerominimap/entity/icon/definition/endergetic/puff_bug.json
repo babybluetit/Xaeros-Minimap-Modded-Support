@@ -1,0 +1,6 @@
+{
+    "variants" : {
+        "endergetic:textures/entity/puffbug/puffbug_deflated.png" : "sprite:endergetic/puffbug_deflated.png",
+        "default" : "sprite:endergetic/puffbug_inflated.png"
+    }
+}
