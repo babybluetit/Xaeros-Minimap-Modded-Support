@@ -1,0 +1,6 @@
+{
+    "variants" : {
+        "untamedwilds:textures/entity/sunfish/southern.png" : "sprite:untamedwilds/sunfish/southern.png",
+        "default" : "sprite:untamedwilds/sunfish/sunfish.png"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants" : {
+        "untamedwilds:textures/entity/giant_salamander/chinese.png" : "sprite:untamedwilds/giant_salamander/chinese.png",
+		"untamedwilds:textures/entity/giant_salamander/hellbender.png" : "sprite:untamedwilds/giant_salamander/hellbender.png",
+        "untamedwilds:textures/entity/giant_salamander/japanese_1.png" : "sprite:untamedwilds/giant_salamander/japanese_1.png",
+        "untamedwilds:textures/entity/giant_salamander/japanese_2.png" : "sprite:untamedwilds/giant_salamander/japanese_2.png",
+        "untamedwilds:textures/entity/giant_salamander/japanese_3.png" : "sprite:untamedwilds/giant_salamander/japanese_3.png",
+        "default" : "sprite:untamedwilds/giant_salamander/chinese.png"
+    }
+}

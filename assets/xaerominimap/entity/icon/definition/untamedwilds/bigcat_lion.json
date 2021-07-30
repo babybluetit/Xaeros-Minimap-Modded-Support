@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "untamedwilds:textures/entity/big_cat/lion_male.png" : "sprite:untamedwilds/big_cat/lion_male.png",
+		"untamedwilds:textures/entity/big_cat/lion_female.png" : "sprite:untamedwilds/big_cat/lion_female.png",
+        "default" : "sprite:untamedwilds/big_cat/lion_female.png"
+    }
+}

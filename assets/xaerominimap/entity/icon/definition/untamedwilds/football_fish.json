@@ -1,0 +1,9 @@
+{
+    "variants" : {
+        "untamedwilds:textures/entity/football_fish/atlantic_1.png" : "sprite:untamedwilds/football_fish/atlantic_1.png",
+        "untamedwilds:textures/entity/football_fish/atlantic_2.png" : "sprite:untamedwilds/football_fish/atlantic_2.png",
+        "untamedwilds:textures/entity/football_fish/atlantic_3.png" : "sprite:untamedwilds/football_fish/atlantic_3.png",
+        "untamedwilds:textures/entity/football_fish/atlantic_4.png" : "sprite:untamedwilds/football_fish/atlantic_4.png",
+        "default" : "sprite:untamedwilds/football_fish/atlantic_2.png"
+    }
+}

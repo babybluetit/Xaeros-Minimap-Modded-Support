@@ -1,0 +1,15 @@
+{
+	"variants" : {
+		"untamedwilds:textures/entity/shark/bigeye.png" : "sprite:untamedwilds/shark/bigeye.png",
+		"untamedwilds:textures/entity/shark/bluntnose.png" : "sprite:untamedwilds/shark/bluntnose.png",
+        "untamedwilds:textures/entity/shark/bull.png" : "sprite:untamedwilds/shark/bull.png",
+        "untamedwilds:textures/entity/shark/goblin.png" : "sprite:untamedwilds/shark/goblin.png",
+        "untamedwilds:textures/entity/shark/great_white.png" : "sprite:untamedwilds/shark/great_white.png",
+        "untamedwilds:textures/entity/shark/greenland.png" : "sprite:untamedwilds/shark/greenland.png",
+        "untamedwilds:textures/entity/shark/hammerhead.png" : "sprite:untamedwilds/shark/hammerhead.png",
+        "untamedwilds:textures/entity/shark/lemon.png" : "sprite:untamedwilds/shark/lemon.png",
+        "untamedwilds:textures/entity/shark/mako.png" : "sprite:untamedwilds/shark/mako.png",
+        "untamedwilds:textures/entity/shark/tiger.png" : "sprite:untamedwilds/shark/tiger.png",
+		"default" : "sprite:untamedwilds/shark/mako.png"
+    }
+}

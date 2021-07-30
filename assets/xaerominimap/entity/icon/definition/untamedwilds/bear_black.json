@@ -1,0 +1,10 @@
+{
+    "variants" : {
+        "untamedwilds:textures/entity/bear/black_1.png" : "sprite:untamedwilds/bear/black_1.png",
+		"untamedwilds:textures/entity/bear/black_2.png" : "sprite:untamedwilds/bear/black_2.png",
+        "untamedwilds:textures/entity/bear/black_3.png" : "sprite:untamedwilds/bear/black_3.png",
+		"untamedwilds:textures/entity/bear/black_4.png" : "sprite:untamedwilds/bear/black_4.png",
+        "untamedwilds:textures/entity/bear/black_5.png" : "sprite:untamedwilds/bear/black_5.png",
+        "default" : "sprite:untamedwilds/bear/black_1.png"
+    }
+}

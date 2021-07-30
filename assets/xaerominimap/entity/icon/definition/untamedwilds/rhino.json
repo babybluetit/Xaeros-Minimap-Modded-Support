@@ -1,0 +1,11 @@
+{
+	"variants" : {
+		"untamedwilds:textures/entity/rhino/black.png" : "sprite:untamedwilds/rhino/black.png",
+		"untamedwilds:textures/entity/rhino/indian.png" : "sprite:untamedwilds/rhino/indian.png",
+        "untamedwilds:textures/entity/rhino/javan.png" : "sprite:untamedwilds/rhino/javan.png",
+        "untamedwilds:textures/entity/rhino/sumatran.png" : "sprite:untamedwilds/rhino/sumatran.png",
+        "untamedwilds:textures/entity/rhino/white.png" : "sprite:untamedwilds/rhino/white.png",
+        "untamedwilds:textures/entity/rhino/woolly.png" : "sprite:untamedwilds/rhino/woolly.png",
+		"default" : "sprite:untamedwilds/rhino/white.png"
+    }
+}

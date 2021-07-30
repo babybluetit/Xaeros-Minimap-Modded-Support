@@ -1,0 +1,10 @@
+{
+    "variants" : {
+        "untamedwilds:textures/entity/giant_clam/crocea.png" : "sprite:untamedwilds/giant_clam/crocea.png",
+		"untamedwilds:textures/entity/giant_clam/derasa.png" : "sprite:untamedwilds/giant_clam/derasa.png",
+        "untamedwilds:textures/entity/giant_clam/gigas.png" : "sprite:untamedwilds/giant_clam/gigas.png",
+        "untamedwilds:textures/entity/giant_clam/maxima.png" : "sprite:untamedwilds/giant_clam/maxima.png",
+        "untamedwilds:textures/entity/giant_clam/squamosa.png" : "sprite:untamedwilds/giant_clam/squamosa.png",
+        "default" : "sprite:untamedwilds/giant_clam/derasa.png"
+    }
+}

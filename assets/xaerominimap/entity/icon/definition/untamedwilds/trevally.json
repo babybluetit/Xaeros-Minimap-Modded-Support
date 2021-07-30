@@ -1,0 +1,10 @@
+{
+    "variants" : {
+        "untamedwilds:textures/entity/trevally/bigeye.png" : "sprite:untamedwilds/trevally/bigeye.png",
+        "untamedwilds:textures/entity/trevally/bluespotted.png" : "sprite:untamedwilds/trevally/bluespotted.png",
+		"untamedwilds:textures/entity/trevally/giant.png" : "sprite:untamedwilds/trevally/giant.png",
+        "untamedwilds:textures/entity/trevally/golden.png" : "sprite:untamedwilds/trevally/golden.png",
+        "untamedwilds:textures/entity/trevally/jack.png" : "sprite:untamedwilds/trevally/jack.png",
+        "default" : "sprite:untamedwilds/trevally/bigeye.png"
+    }
+}

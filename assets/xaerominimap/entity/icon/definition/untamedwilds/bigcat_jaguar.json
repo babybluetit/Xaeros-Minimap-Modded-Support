@@ -1,0 +1,8 @@
+{
+    "variants" : {
+        "untamedwilds:textures/entity/big_cat/jaguar_1.png" : "sprite:untamedwilds/big_cat/jaguar_1.png",
+		"untamedwilds:textures/entity/big_cat/jaguar_2.png" : "sprite:untamedwilds/big_cat/jaguar_2.png",
+        "untamedwilds:textures/entity/big_cat/jaguar_3.png" : "sprite:untamedwilds/big_cat/jaguar_3.png",
+        "default" : "sprite:untamedwilds/big_cat/jaguar_2.png"
+    }
+}
