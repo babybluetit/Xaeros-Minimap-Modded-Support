@@ -11,7 +11,7 @@
 			"offsetX" : 0,
 			"offsetY" : 0,
 			"modelMainPartFieldAliases" : [
-				"com.teammetallurgy.atum.client.model.entity.BonestormModel;bonestormHead"
+				"com.teammetallurgy.atum.client.model.entity.ModelBonestorm;bonestormHead"
 			],
 			"renderingFullModel" : false,
 			"modelPartsRotationReset" : false,

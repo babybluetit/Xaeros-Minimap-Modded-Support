@@ -11,7 +11,7 @@
 			"offsetX" : 0,
 			"offsetY" : 0,
 			"modelMainPartFieldAliases" : [
-				"com.teammetallurgy.atum.client.model.entity.CamelModel;headModel"
+				"com.teammetallurgy.atum.client.model.entity.ModelCamel;headModel"
 			],
 			"renderingFullModel" : false,
 			"modelPartsRotationReset" : false,

@@ -1,7 +1,0 @@
-{
-	"variants" : {
-		"mysticalworld:textures/entity/magma_cat_magma.png" : "sprite:lava_cat.png",
-		"mysticalworld:textures/entity/magma_cat_obsidian.png" : "sprite:obsidian_cat.png",
-		"default" : "sprite:lava_cat.png"
-	}
-}

@@ -1,6 +1,0 @@
-{
-	"variants" : {
-        "alexsmobs:textures/entity/leafcutter_ant_angry.png" : "sprite:alexsmobs/leafcutter_ant_angry.png",
-		"default" : "sprite:alexsmobs/leafcutter_ant.png"
-	}
-}

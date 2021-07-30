@@ -10,8 +10,11 @@
 			"rotationZ" : 0,
 			"offsetX" : 0,
 			"offsetY" : 0,
+            "modelPartsFields" : [
+                "com.teammetallurgy.atum.client.model.entity.ModelDesertWolf;wolfMane"
+            ],
 			"modelMainPartFieldAliases" : [
-				"com.teammetallurgy.atum.client.model.entity.ModelStonewarden;stonewardenHead"
+				"com.teammetallurgy.atum.client.model.entity.ModelDesertWolf;wolfHeadMain"
 			],
 			"renderingFullModel" : false,
 			"modelPartsRotationReset" : false,
