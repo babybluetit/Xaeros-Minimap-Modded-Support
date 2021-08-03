@@ -23,6 +23,7 @@
 * [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
 * [Hals Exploration Mod](https://www.curseforge.com/minecraft/mc-mods/hals-exploration-mod)
 * [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
+* [Illagers+](https://www.curseforge.com/minecraft/mc-mods/illagers)
 * [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 * [Jellyfishing](https://www.curseforge.com/minecraft/mc-mods/jellyfishing)
 * [More Jellyfish](https://www.curseforge.com/minecraft/mc-mods/more-jellyfish)
@@ -38,6 +39,7 @@
 * [Unnamed Animal Mod](https://www.curseforge.com/minecraft/mc-mods/unnamed-animal-mod)
 * [Untamed Wilds](https://www.curseforge.com/minecraft/mc-mods/untamedwilds)
 * [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
+* [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)
 
 ###### Mods marked with an asterisk (*) are a WIP - mostly supported, but may be missing one or two mobs.
 
