@@ -1,0 +1,13 @@
+{
+	"variants" : {
+        "quark:textures/entity/stoneling_andesite.png" : "sprite:quark/stoneling_andesite.png",
+        "quark:textures/entity/stoneling_basalt.png" : "sprite:quark/stoneling_basalt.png",
+        "quark:textures/entity/stoneling_diorite.png" : "sprite:quark/stoneling_diorite.png",
+        "quark:textures/entity/stoneling_granite.png" : "sprite:quark/stoneling_granite.png",
+        "quark:textures/entity/stoneling_jasper.png" : "sprite:quark/stoneling_jasper.png",
+        "quark:textures/entity/stoneling_limestone.png" : "sprite:quark/stoneling_limestone.png",
+        "quark:textures/entity/stoneling_marble.png" : "sprite:quark/stoneling_marble.png",
+        "quark:textures/entity/stoneling_slate.png" : "sprite:quark/stoneling_slate.png",
+		"default" : "sprite:quark/stoneling_stone.png"
+	}
+}

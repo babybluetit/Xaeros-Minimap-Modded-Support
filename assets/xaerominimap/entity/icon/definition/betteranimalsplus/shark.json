@@ -1,0 +1,36 @@
+{
+	"variants" : {
+        "betteranimalsplus:textures/entity/shark_greenland.png" : "model:0",
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.5,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelMainPartFieldAliases" : [
+				"its_meow.betteranimalsplus.client.model.ModelShark;body"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : true,
+			"layersAllowed" : true
+		},
+        {
+			"baseScale" : 0.5,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelMainPartFieldAliases" : [
+				"its_meow.betteranimalsplus.client.model.ModelGreenlandShark;body"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : true,
+			"layersAllowed" : true
+		}
+	]
+}

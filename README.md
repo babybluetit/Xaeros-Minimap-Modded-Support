@@ -5,8 +5,11 @@
 ### Currently Supported:
 
 * [Atum 2: Return to the Sands](https://www.curseforge.com/minecraft/mc-mods/atum)
-* [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *
+* [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) *
+* [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 * [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
+* [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+* [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft)
 
 ###### Mods marked with an asterisk (*) are a WIP - mostly supported, but may be missing one or two mobs.
 

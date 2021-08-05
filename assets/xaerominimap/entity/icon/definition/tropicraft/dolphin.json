@@ -1,0 +1,49 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelPartsFields" : [
+				"net.tropicraft.core.client.entity.model.ModelDolphin;Body2",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;Head1",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;LowerJaw1",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;LowerJaw2",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;LowerJaw3",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;LowerJaw4",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;LowerJaw5",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;UpperJaw1",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;UpperJaw2",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;UpperJaw3",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;UpperJaw4",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;UpperJaw5",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;Head2",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;Head3",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;Head4",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;Head5",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;Body3",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;RightPectoralFin1",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;RightPectoralFin2",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;LeftPectoralFin1",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;LeftPectoralFin2",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;DorsalFin1",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;DorsalFin2",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;DorsalFin3",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;DorsalFin4",
+				"net.tropicraft.core.client.entity.model.ModelDolphin;DorsalFin5"
+			],
+			"modelMainPartFieldAliases" : [
+				"net.tropicraft.core.client.entity.model.ModelDolphin;Body1"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

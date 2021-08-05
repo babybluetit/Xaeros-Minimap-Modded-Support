@@ -1,0 +1,28 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.6,
+			"rotationY" : 0,
+			"rotationX" : 45,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+            "modelPartsFields" : [
+                "vazkii.quark.world.client.model.ModelFrog;headBottom",
+                "vazkii.quark.world.client.model.ModelFrog;rightArm",
+                "vazkii.quark.world.client.model.ModelFrog;leftArm",
+                "vazkii.quark.world.client.model.ModelFrog;rightEye",
+                "vazkii.quark.world.client.model.ModelFrog;leftEye"
+            ],
+			"modelMainPartFieldAliases" : [
+				"vazkii.quark.world.client.model.ModelFrog;headTop"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

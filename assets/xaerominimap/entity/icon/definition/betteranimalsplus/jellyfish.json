@@ -1,0 +1,21 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.3,
+			"rotationY" : 90,
+			"rotationX" : 90,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelMainPartFieldAliases" : [
+				"its_meow.betteranimalsplus.client.model.ModelBear;main"
+			],
+			"renderingFullModel" : true,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}
