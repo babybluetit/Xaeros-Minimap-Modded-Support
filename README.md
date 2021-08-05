@@ -1,5 +1,5 @@
 # Xaero's Minimap - Modded Support
- Adds icons to Xaero's Minimap for a range of modded mobs. A mixture of yellow dots and icons on the minimap can be annoying, so this pack aims to help players and modpack makers by supporting as many mods as possible.
+ Adds icons to Xaero's Minimap for a range of modded mobs. This pack is made to support 1.16.5 mods, as such it is not guaranteed to work with older versions. A 1.12.2 branch is in development, but currently covers a much more limited selection of mods.
  The pack can be downloaded here, or from the [Curseforge page](https://www.curseforge.com/minecraft/texture-packs/xaeros-minimap-modded-support).
 
 ### Currently Supported:
