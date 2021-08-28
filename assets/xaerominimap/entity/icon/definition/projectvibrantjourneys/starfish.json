@@ -1,0 +1,27 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 1,
+			"rotationY" : 0,
+			"rotationX" : 90,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+            "modelPartsFields" : [
+                "projectvibrantjourneys.client.entity.models.StarfishModel;body2",
+                "projectvibrantjourneys.client.entity.models.StarfishModel;body3",
+                "projectvibrantjourneys.client.entity.models.StarfishModel;body4",
+                "projectvibrantjourneys.client.entity.models.StarfishModel;body5"
+            ],
+			"modelMainPartFieldAliases" : [
+				"projectvibrantjourneys.client.entity.models.StarfishModel;body1"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}
