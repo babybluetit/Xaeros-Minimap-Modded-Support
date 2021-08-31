@@ -37,6 +37,7 @@
 * [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 * [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+* [THE UNDEAD](https://www.curseforge.com/minecraft/mc-mods/theundead)
 * [Undead Expansion](https://www.curseforge.com/minecraft/mc-mods/undead-expansion)
 * [Unnamed Animal Mod](https://www.curseforge.com/minecraft/mc-mods/unnamed-animal-mod)
 * [Untamed Wilds](https://www.curseforge.com/minecraft/mc-mods/untamedwilds)
