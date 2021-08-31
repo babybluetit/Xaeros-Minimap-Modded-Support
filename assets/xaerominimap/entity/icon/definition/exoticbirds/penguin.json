@@ -1,0 +1,27 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+            "baseScale" : 1,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+            "modelPartsFields" : [
+                "net.pavocado.exoticbirds.client.model.ModelPenguin;Neck",
+                "net.pavocado.exoticbirds.client.model.ModelPenguin;LowerBeak",
+                "net.pavocado.exoticbirds.client.model.ModelPenguin;BeakTip",
+                "net.pavocado.exoticbirds.client.model.ModelPenguin;UpperBeak"
+            ],
+            "modelMainPartFieldAliases" : [
+				"net.pavocado.exoticbirds.client.model.ModelPenguin;Head"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

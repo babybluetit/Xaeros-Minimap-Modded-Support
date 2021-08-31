@@ -20,6 +20,7 @@
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
 * [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
+* [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
 * [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
 * [Hals Exploration Mod](https://www.curseforge.com/minecraft/mc-mods/hals-exploration-mod)
 * [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) *

@@ -1,0 +1,25 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+            "baseScale" : 0.9,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+            "modelPartsFields" : [
+                "net.pavocado.exoticbirds.client.model.ModelGull;LowerBeak",
+                "net.pavocado.exoticbirds.client.model.ModelGull;UpperBeak"
+            ],
+            "modelMainPartFieldAliases" : [
+				"net.pavocado.exoticbirds.client.model.ModelGull;Head"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}
