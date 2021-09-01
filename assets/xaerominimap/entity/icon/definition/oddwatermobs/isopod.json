@@ -1,0 +1,21 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+            "baseScale" : 0.4,
+			"rotationY" : 0,
+			"rotationX" : -90,
+			"rotationZ" : 180,
+			"offsetX" : 0,
+			"offsetY" : 0,
+            "modelMainPartFieldAliases" : [
+				"com.odd_water_mobs.entity.IsopodEntity$Modelisopod;body"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

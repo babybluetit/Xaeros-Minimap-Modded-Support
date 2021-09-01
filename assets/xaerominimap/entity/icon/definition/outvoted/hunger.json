@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "outvoted:textures/entity/hunger_red.png" : "sprite:outvoted/hunger_red.png",
+        "outvoted:textures/entity/hunger_swamp.png" : "sprite:outvoted/hunger_swamp.png",
+        "default" : "sprite:outvoted/hunger.png"
+    }
+}
