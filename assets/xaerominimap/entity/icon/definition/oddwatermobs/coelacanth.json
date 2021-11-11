@@ -11,11 +11,11 @@
 			"offsetX" : 0,
 			"offsetY" : 0,
             "modelPartsFields" : [
-                "com.odd_water_mobs.entity.CoelacanthEntity$Modelcoelacanth;head",
-                "com.odd_water_mobs.entity.CoelacanthEntity$Modelcoelacanth;body"
+                "com.odd_water_mobs.entity.renderer.CoelacanthRenderer$Modelcoelacanthnew;head",
+                "com.odd_water_mobs.entity.renderer.CoelacanthRenderer$Modelcoelacanthnew;body"
             ],
             "modelMainPartFieldAliases" : [
-				"com.odd_water_mobs.entity.CoelacanthEntity$Modelcoelacanth;body2"
+				"com.odd_water_mobs.entity.renderer.CoelacanthRenderer$Modelcoelacanthnew;bodysegment2"
 			],
 			"renderingFullModel" : false,
 			"modelPartsRotationReset" : false,

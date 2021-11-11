@@ -40,6 +40,7 @@
 * [Stalwart Dungeons](https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons)
 * [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)
 * [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+* [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
 * [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 * [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)

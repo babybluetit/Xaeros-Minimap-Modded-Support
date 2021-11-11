@@ -11,7 +11,7 @@
 			"offsetX" : 0,
 			"offsetY" : 0,
             "modelMainPartFieldAliases" : [
-				"com.odd_water_mobs.entity.renderer.AnglerfishPuffRenderer$Modelanglerfishpuff;body"
+				"com.odd_water_mobs.entity.renderer.SabertoothFishRenderer$Modelbreast;body"
 			],
 			"renderingFullModel" : false,
 			"modelPartsRotationReset" : false,
