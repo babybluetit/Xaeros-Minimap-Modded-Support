@@ -17,6 +17,7 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 - [BetterNether Reforged](https://www.curseforge.com/minecraft/mc-mods/betternether-reforged)
 - [Caves & Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)
 - [Comfortable Nether](https://www.curseforge.com/minecraft/mc-mods/comfortable-nether)
+- [Creatures and Beasts](https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts)
 - [Darker Depths](https://www.curseforge.com/minecraft/mc-mods/darker-depths)
 - [Dead Guys Untitled Deep Dark](https://www.curseforge.com/minecraft/mc-mods/dead-guys-deep-dark)
 - [Desolation (Forge)](https://www.curseforge.com/minecraft/mc-mods/desolation-forge)

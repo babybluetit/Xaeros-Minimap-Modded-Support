@@ -1,0 +1,6 @@
+{
+    "variants" : {
+        "cnb:textures/model/entity/little_grebe_chick.png" : "outlined_sprite:cnb/little_grebe_chick.png",
+        "default" : "outlined_sprite:cnb/little_grebe.png"
+    }
+}

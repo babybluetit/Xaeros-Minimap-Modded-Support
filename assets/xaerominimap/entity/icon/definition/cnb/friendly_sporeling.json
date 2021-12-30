@@ -1,0 +1,6 @@
+{
+    "variants" : {
+        "cnb:textures/model/entity/sporeling_brown_overworld.png" : "outlined_sprite:cnb/sporeling_brown_overworld.png",
+        "default" : "outlined_sprite:cnb/sporeling_red_overworld.png"
+    }
+}

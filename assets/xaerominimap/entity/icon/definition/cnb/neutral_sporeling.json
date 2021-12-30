@@ -1,0 +1,6 @@
+{
+    "variants" : {
+        "cnb:textures/model/entity/sporeling_warped_fungi.png" : "outlined_sprite:cnb/sporeling_warped_fungi.png",
+        "default" : "outlined_sprite:cnb/sporeling_crimson_fungus.png"
+    }
+}

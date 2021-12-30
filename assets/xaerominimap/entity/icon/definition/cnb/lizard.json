@@ -1,0 +1,13 @@
+{
+    "variants" : {
+        "cnb:textures/model/entity/lizard/lizard_desert.png" : "outlined_sprite:cnb/lizard_desert.png",
+        "cnb:textures/model/entity/lizard/sad_lizard_desert.png" : "outlined_sprite:cnb/lizard_desert.png",
+        "cnb:textures/model/entity/lizard/lizard_desert_2.png" : "outlined_sprite:cnb/lizard_desert_2.png",
+        "cnb:textures/model/entity/lizard/sad_lizard_desert_2.png" : "outlined_sprite:cnb/lizard_desert_2.png",
+        "cnb:textures/model/entity/lizard/lizard_jungle.png" : "outlined_sprite:cnb/lizard_jungle.png",
+        "cnb:textures/model/entity/lizard/sad_lizard_jungle.png" : "outlined_sprite:cnb/lizard_jungle.png",
+        "cnb:textures/model/entity/lizard/lizard_jungle_2.png" : "outlined_sprite:cnb/lizard_jungle_2.png",
+        "cnb:textures/model/entity/lizard/sad_lizard_jungle_2.png" : "outlined_sprite:cnb/lizard_jungle_2.png",
+        "default" : "outlined_sprite:cnb/lizard_desert.png"
+    }
+}

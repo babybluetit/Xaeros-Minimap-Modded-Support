@@ -1,0 +1,6 @@
+{
+    "variants" : {
+        "cnb:textures/model/entity/yeti/baby_yeti.png" : "outlined_sprite:cnb/baby_yeti.png",
+        "default" : "outlined_sprite:cnb/yeti.png"
+    }
+}

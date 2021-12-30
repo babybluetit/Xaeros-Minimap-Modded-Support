@@ -1,0 +1,6 @@
+{
+    "variants" : {
+        "cnb:textures/model/entity/sporeling_brown_nether.png" : "outlined_sprite:cnb/sporeling_brown_nether.png",
+        "default" : "outlined_sprite:cnb/sporeling_red_nether.png"
+    }
+}

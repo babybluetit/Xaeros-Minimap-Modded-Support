@@ -1,0 +1,6 @@
+{
+    "variants" : {
+        "cnb:textures/model/entity/cindershell/baby_cindershell.png" : "outlined_sprite:cnb/baby_cindershell.png",
+        "default" : "outlined_sprite:cnb/cindershell.png"
+    }
+}
