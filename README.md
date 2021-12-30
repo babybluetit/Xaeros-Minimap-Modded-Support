@@ -14,6 +14,7 @@
 * [BetterEnd (Forge)](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
 * [Caves & Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)
 * [Comfortable Nether](https://www.curseforge.com/minecraft/mc-mods/comfortable-nether)
+* [Darker Depths](https://www.curseforge.com/minecraft/mc-mods/darker-depths)
 * [Desolation (Forge)](https://www.curseforge.com/minecraft/mc-mods/desolation-forge)
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
 * [Dungeons Mobs](https://www.curseforge.com/minecraft/mc-mods/dungeons-mobs)
