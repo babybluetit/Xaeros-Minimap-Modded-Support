@@ -18,6 +18,7 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 - [Caves & Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)
 - [Comfortable Nether](https://www.curseforge.com/minecraft/mc-mods/comfortable-nether)
 - [Darker Depths](https://www.curseforge.com/minecraft/mc-mods/darker-depths)
+- [Dead Guys Untitled Deep Dark](https://www.curseforge.com/minecraft/mc-mods/dead-guys-deep-dark)
 - [Desolation (Forge)](https://www.curseforge.com/minecraft/mc-mods/desolation-forge)
 - [Dragon Mounts: Legacy](https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy)
 - [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
