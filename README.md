@@ -12,6 +12,8 @@
 * [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
 * [BetterEnd (Forge)](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
+* [BetterEnd Reforked](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)
+* [BetterNether Reforged](https://www.curseforge.com/minecraft/mc-mods/betternether-reforged)
 * [Caves & Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)
 * [Comfortable Nether](https://www.curseforge.com/minecraft/mc-mods/comfortable-nether)
 * [Darker Depths](https://www.curseforge.com/minecraft/mc-mods/darker-depths)
