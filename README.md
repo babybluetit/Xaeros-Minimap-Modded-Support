@@ -20,6 +20,7 @@
 * [Desolation (Forge)](https://www.curseforge.com/minecraft/mc-mods/desolation-forge)
 * [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
 * [Dungeons Mobs](https://www.curseforge.com/minecraft/mc-mods/dungeons-mobs)
+* [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs)
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
 * [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)

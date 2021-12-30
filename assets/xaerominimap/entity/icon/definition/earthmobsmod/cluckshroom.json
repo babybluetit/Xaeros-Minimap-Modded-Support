@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "earthmobsmod:textures/entity/cluck_shroom/brown_cluck_shroom.png": "outlined_sprite:earthmobsmod/brown_cluck_shroom.png",
+        "default": "outlined_sprite:earthmobsmod/cluck_shroom.png"
+    }
+}
