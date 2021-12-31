@@ -1,0 +1,9 @@
+{
+	"variants" : {
+        "whatareyouvotingfor:textures/entities/copper_golem.png" : "outlined_sprite:whatareyouvotingfor/copper_golem.png",
+        "whatareyouvotingfor:textures/entities/exposed_copper_golem.png" : "outlined_sprite:whatareyouvotingfor/exposed_copper_golem.png",
+        "whatareyouvotingfor:textures/entities/oxidized_copper_golem.png" : "outlined_sprite:whatareyouvotingfor/oxidized_copper_golem.png",
+        "whatareyouvotingfor:textures/entities/weathered_copper_golem.png" : "outlined_sprite:whatareyouvotingfor/weathered_copper_golem.png",
+		"default" : "outlined_sprite:whatareyouvotingfor/copper_golem.png"
+	}
+}
