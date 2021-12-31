@@ -42,6 +42,7 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 - [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
 - [Petrock - Forge](https://www.curseforge.com/minecraft/mc-mods/petrock-mod)
 - [Project: Vibrant Journeys](https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys)
+- [Pyromancer](https://www.curseforge.com/minecraft/mc-mods/pyromancer)
 - [Odd Water Mobs](https://www.curseforge.com/minecraft/mc-mods/odd-water-mobs)
 - [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)
 - [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted)

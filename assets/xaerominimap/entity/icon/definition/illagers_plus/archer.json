@@ -1,21 +1,5 @@
 {
     "variants" : {
         "default" : "sprite:illagers_plus/archer.png"
-    },
-    "modelConfigs" : [
-		{
-			"baseScale" : 1,
-			"rotationY" : 0,
-			"rotationX" : 0,
-			"rotationZ" : 0,
-			"offsetX" : 0,
-			"offsetY" : 0,
-			"modelMainPartFieldAliases" : [
-				"com.litewolf101.illagers_plus.client.model.ModelArcher;head"
-			],
-			"renderingFullModel" : false,
-			"modelPartsRotationReset" : false,
-			"layersAllowed" : true
-		}
-	]
+    }
 }
