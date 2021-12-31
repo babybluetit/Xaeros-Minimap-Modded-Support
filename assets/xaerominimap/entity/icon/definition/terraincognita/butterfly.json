@@ -1,0 +1,21 @@
+{
+	"variants" : {
+		"default" : "model:0"
+	},
+	"modelConfigs" : [
+		{
+			"baseScale" : 0.4,
+			"rotationY" : 0,
+			"rotationX" : 270,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelMainPartFieldAliases" : [
+				"azmalent.terraincognita.client.renderer.entity.ButterflyRenderer$ButterflyModel;body"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : true,
+			"layersAllowed" : true
+		}
+	]
+}

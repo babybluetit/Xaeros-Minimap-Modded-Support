@@ -48,6 +48,7 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 - [Stalwart Dungeons](https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons)
 - [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+- [Terra Incognita: The Unknown Land](https://www.curseforge.com/minecraft/mc-mods/terraincognita)
 - [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
 - [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft)
