@@ -35,6 +35,7 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 - [Illagers+](https://www.curseforge.com/minecraft/mc-mods/illagers)
 - [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 - [Jellyfishing](https://www.curseforge.com/minecraft/mc-mods/jellyfishing)
+- [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)
 - [Magma Monsters](https://www.curseforge.com/minecraft/mc-mods/magma-monsters)
 - [More Jellyfish](https://www.curseforge.com/minecraft/mc-mods/more-jellyfish)
 - [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
