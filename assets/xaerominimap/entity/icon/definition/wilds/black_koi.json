@@ -1,0 +1,21 @@
+{
+    "variants" : {
+        "default" : "model:0"
+    },
+    "modelConfigs" : [
+		{
+			"baseScale" : 0.6,
+			"rotationY" : 270,
+			"rotationX" : 180,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelMainPartFieldAliases" : [
+				"net.spicybanana.wilds.entity.renderer.BlackKoiRenderer$Modelkoi;body"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}

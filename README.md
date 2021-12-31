@@ -62,6 +62,7 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 - [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
 - [What Are You Voting For](https://www.curseforge.com/minecraft/mc-mods/what-are-you-voting-for)
 - [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)
+- [Wilds](https://www.curseforge.com/minecraft/mc-mods/wilds)
 
 ###### Mods marked with an asterisk (\*) are a WIP - mostly supported, but may be missing one or two mobs.
 
