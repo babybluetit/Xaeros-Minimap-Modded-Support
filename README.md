@@ -77,3 +77,8 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 • Link to the mod page
 • An estimate of the number of mobs introduced by the mod
 ```
+
+### Want to make your own icons?
+
+I have written a tutorial to help people add support for their own entities!
+See the [wiki](https://github.com/babybluetit/Xaeros-Minimap-Modded-Support/wiki) for more.
