@@ -1,11 +1,8 @@
 # Xaero's Minimap - Modded Support
 
-> Currently in the process of updating to 1.18.1
-> I am focusing on Fabric mods initially but open to requests for mods on both modloaders.
-> I am also still accepting requests for 1.16.5 mods.
+Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1.18.1) branch of the pack, as such it is not guaranteed to work with older versions.
 
-Adds icons to Xaero's Minimap for a range of modded mobs.
-The pack can be downloaded here, or from the [Curseforge page](https://www.curseforge.com/minecraft/texture-packs/xaeros-minimap-modded-support).
+> The pack can be downloaded here, or from the [Curseforge page](https://www.curseforge.com/minecraft/texture-packs/xaeros-minimap-modded-support).
 
 ### Currently Supported:
 
@@ -21,7 +18,7 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 
 ### Under Review
 
-> May be supported, but I need to review these first. These are all supported in the 1.16.5 version of the pack and are in the process of being updated/removed.
+> I am currently updating the pack to 1.18.1 <br/><br/> These mods _may_ be supported, but I need to review them to confirm this. These are all supported in the 1.16.5 version of the pack and are in the process of being updated/removed.
 
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 - [Animalium](https://www.curseforge.com/minecraft/mc-mods/animalium)
@@ -95,6 +92,7 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 • Link to the mod page
 • An estimate of the number of mobs introduced by the mod
 ```
+> I am accepting requests for mods made for 1.16.5 and 1.18.1 - on both Forge and Fabric
 
 ### Want to make your own icons?
 
