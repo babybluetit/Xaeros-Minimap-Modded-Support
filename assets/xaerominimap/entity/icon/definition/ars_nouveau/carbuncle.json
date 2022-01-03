@@ -7,6 +7,6 @@
         "ars_nouveau:textures/entity/carbuncle_purple.png" : "sprite:ars_nouveau/carbuncle_purple.png",
         "ars_nouveau:textures/entity/carbuncle_red.png" : "sprite:ars_nouveau/carbuncle_red.png",
         "ars_nouveau:textures/entity/carbuncle_yellow.png" : "sprite:ars_nouveau/carbuncle_yellow.png",
-        "default" : "sprite/ars_nouveau/carbuncle_wild_orange.png"
+        "default" : "sprite:ars_nouveau/carbuncle_wild_orange.png"
     }
 }

@@ -1,9 +1,22 @@
 # Xaero's Minimap - Modded Support
 
-Adds icons to Xaero's Minimap for a range of modded mobs. This pack is made to support 1.16.5 mods, as such it is not guaranteed to work with older versions. A 1.12.2 branch is in development, but currently covers a much more limited selection of mods.
+> Currently in the process of updating to 1.18.1
+> I am focusing on Fabric mods initially but open to requests for mods on both modloaders.
+> I am also still accepting requests for 1.16.5 mods.
+
+Adds icons to Xaero's Minimap for a range of modded mobs.
 The pack can be downloaded here, or from the [Curseforge page](https://www.curseforge.com/minecraft/texture-packs/xaeros-minimap-modded-support).
 
 ### Currently Supported:
+
+- [[Fabric] Sculk Worm](https://www.curseforge.com/minecraft/mc-mods/fabric-sculk-worm)
+- [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez)
+- [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
+- [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
+
+### Under Review
+
+> May be supported, but I need to review these first. These are all supported in the 1.16.5 version of the pack and are in the process of being updated/removed.
 
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 - [Animalium](https://www.curseforge.com/minecraft/mc-mods/animalium)
