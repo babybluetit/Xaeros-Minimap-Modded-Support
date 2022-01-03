@@ -13,6 +13,11 @@ The pack can be downloaded here, or from the [Curseforge page](https://www.curse
 - [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez)
 - [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
 - [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
+- [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction)*
+- [Capybara [Fabric]](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
+- [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
+- [Earth2Java](https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric)
+- [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
 
 ### Under Review
 
