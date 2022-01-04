@@ -10,12 +10,8 @@
       "rotationZ": 0,
       "offsetX": 0,
       "offsetY": 0,
-      "modelPartsFields": [
-        "vazkii.quark.content.mobs.client.model.CrabModel;leftEye",
-        "vazkii.quark.content.mobs.client.model.CrabModel;rightEye"
-      ],
       "modelMainPartFieldAliases": [
-        "vazkii.quark.content.mobs.client.model.CrabModel;body"
+        "quek.undergarden.client.model.RotlingModel;head"
       ],
       "renderingFullModel": false,
       "modelPartsRotationReset": true,

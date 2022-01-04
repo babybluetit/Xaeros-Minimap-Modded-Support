@@ -4,19 +4,17 @@
   },
   "modelConfigs": [
     {
-      "baseScale": 0.9,
+      "baseScale": 1.0,
       "rotationY": 0,
       "rotationX": 0,
       "rotationZ": 0,
       "offsetX": 0,
       "offsetY": 0,
       "modelPartsFields": [
-        "vazkii.quark.content.experimental.shiba.client.model.ShibaModel;rEar",
-        "vazkii.quark.content.experimental.shiba.client.model.ShibaModel;lEar",
-        "vazkii.quark.content.experimental.shiba.client.model.ShibaModel;tongue"
+        "com.itayfeder.restored_earth.client.renderer.entities.models.VilerWitchModel;hat"
       ],
       "modelMainPartFieldAliases": [
-        "vazkii.quark.content.experimental.shiba.client.model.ShibaModel;head"
+        "com.itayfeder.restored_earth.client.renderer.entities.models.VilerWitchModel;head"
       ],
       "renderingFullModel": false,
       "modelPartsRotationReset": true,

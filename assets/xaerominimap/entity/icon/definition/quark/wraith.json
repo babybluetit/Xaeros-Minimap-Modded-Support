@@ -1,5 +1,5 @@
 {
-	"variants" : {
-		"default" : "sprite:quark/wraith_.png"
-	}
+  "variants": {
+    "default": "sprite:quark/wraith_.png"
+  }
 }

@@ -4,18 +4,14 @@
   },
   "modelConfigs": [
     {
-      "baseScale": 1.0,
+      "baseScale": 0.8,
       "rotationY": 0,
       "rotationX": 0,
       "rotationZ": 0,
       "offsetX": 0,
       "offsetY": 0,
-      "modelPartsFields": [
-        "vazkii.quark.content.mobs.client.model.CrabModel;leftEye",
-        "vazkii.quark.content.mobs.client.model.CrabModel;rightEye"
-      ],
       "modelMainPartFieldAliases": [
-        "vazkii.quark.content.mobs.client.model.CrabModel;body"
+        "quek.undergarden.client.model.GwibModel;head"
       ],
       "renderingFullModel": false,
       "modelPartsRotationReset": true,

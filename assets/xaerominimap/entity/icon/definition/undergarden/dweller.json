@@ -10,13 +10,8 @@
       "rotationZ": 0,
       "offsetX": 0,
       "offsetY": 0,
-      "modelPartsFields": [
-        "vazkii.quark.content.experimental.shiba.client.model.ShibaModel;rEar",
-        "vazkii.quark.content.experimental.shiba.client.model.ShibaModel;lEar",
-        "vazkii.quark.content.experimental.shiba.client.model.ShibaModel;tongue"
-      ],
       "modelMainPartFieldAliases": [
-        "vazkii.quark.content.experimental.shiba.client.model.ShibaModel;head"
+        "quek.undergarden.client.model.DwellerModel;head"
       ],
       "renderingFullModel": false,
       "modelPartsRotationReset": true,
