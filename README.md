@@ -14,8 +14,10 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Capybara [Fabric]](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
 - [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
 - [Earth2Java](https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric)
-- [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
+- [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs)
 - [The Graveyard [Fabric]](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric)
+- [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 - [Unvoted & Shelved](https://www.curseforge.com/minecraft/mc-mods/unvoted-shelved)
 - [Wild Update Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)
 
@@ -27,9 +29,6 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 - [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 - [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
-- [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs)
-- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
-- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 
 ###### Mods marked with an asterisk (\*) are a WIP - mostly supported, but may be missing one or two mobs.
 
