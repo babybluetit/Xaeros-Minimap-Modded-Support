@@ -6,6 +6,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the 1.16.5 bra
 
 ### Currently Supported:
 
+- [The Abyss II - The Other Side](https://www.curseforge.com/minecraft/mc-mods/the-abyss-chapter-ii)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 - [Animalium](https://www.curseforge.com/minecraft/mc-mods/animalium)
 - [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)

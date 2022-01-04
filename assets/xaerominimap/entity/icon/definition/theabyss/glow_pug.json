@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "default": "outlined_sprite:theabyss/glow_pug.png"
+  },
+  "modelConfigs": [
+    {
+      "baseScale": 1.0,
+      "rotationY": 0,
+      "rotationX": 0,
+      "rotationZ": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "modelMainPartFieldAliases": [
+        "net.yezon.theabyss.entity.renderer.GlowPugRenderer$Modelglow_pug;head"
+      ],
+      "renderingFullModel": false,
+      "modelPartsRotationReset": true,
+      "layersAllowed": true
+    }
+  ]
+}
