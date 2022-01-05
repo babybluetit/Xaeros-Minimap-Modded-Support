@@ -1,11 +1,11 @@
 {
-	"variants" : {
-		"strawgolem:textures/entity/igalaxy.png" : "sprite:igalaxy.png",
-		"strawgolem:textures/entity/mr_chocolate.png" : "sprite:mr_chocolate.png",
-		"strawgolem:textures/entity/shockmicro.png" : "sprite:shockmicro.png",
-		"strawgolem:textures/entity/winter_golem.png" : "sprite:winter_golem.png",
-		"strawgolem:textures/entity/dying_golem.png" : "sprite:dying_golem.png",
-		"strawgolem:textures/entity/old_golem.png" : "sprite:old_golem.png",
-		"default" : "sprite:strawgolem.png"
-	}
+  "variants": {
+    "strawgolem:textures/entity/igalaxy.png": "outlined_sprite:strawgolem/igalaxy.png",
+    "strawgolem:textures/entity/mr_chocolate.png": "outlined_sprite:strawgolem/mr_chocolate.png",
+    "strawgolem:textures/entity/shockmicro.png": "outlined_sprite:strawgolem/shockmicro.png",
+    "strawgolem:textures/entity/winter_golem.png": "outlined_sprite:strawgolem/winter_golem.png",
+    "strawgolem:textures/entity/dying_golem.png": "outlined_sprite:strawgolem/dying_golem.png",
+    "strawgolem:textures/entity/old_golem.png": "outlined_sprite:strawgolem/old_golem.png",
+    "default": "outlined_sprite:strawgolem/golem.png"
+  }
 }
