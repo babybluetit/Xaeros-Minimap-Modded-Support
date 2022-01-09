@@ -13,6 +13,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction)*
 - [Capybara [Fabric]](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
 - [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
+- [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
 - [Earth2Java](https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric)
 - [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs)
 - [The Graveyard [Fabric]](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric)
