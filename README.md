@@ -54,6 +54,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the 1.16.5 bra
 - [NoCube's Sea Dwellers](https://www.curseforge.com/minecraft/mc-mods/nocubes-sea-dwellers)
 - [Odd Water Mobs](https://www.curseforge.com/minecraft/mc-mods/odd-water-mobs)
 - [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)
+- [Ottercraft](https://www.curseforge.com/minecraft/mc-mods/ottercraft)
 - [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted)
 - [Petrock - Forge](https://www.curseforge.com/minecraft/mc-mods/petrock-mod)
 - [Project: Vibrant Journeys](https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys)
