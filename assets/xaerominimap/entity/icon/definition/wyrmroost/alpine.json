@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "wyrmroost:textures/entity/dragon/alpine/body_4.png": "outlined_sprite:wyrmroost/alpine/body_4.png",
+    "default": "outlined_sprite:wyrmroost/alpine/body_4.png"
+  }
+}
