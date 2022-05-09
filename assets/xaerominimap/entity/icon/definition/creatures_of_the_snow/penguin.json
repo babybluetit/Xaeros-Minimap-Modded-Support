@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "creatures_of_the_snow:textures/entity/penguin/baby.png": "outlined_sprite:creatures_of_the_snow/penguin_baby.png",
+        "creatures_of_the_snow:textures/entity/penguin/white.png": "outlined_sprite:creatures_of_the_snow/penguin_white.png",
+        "default": "outlined_sprite:creatures_of_the_snow/penguin_black.png"
+    }
+}
