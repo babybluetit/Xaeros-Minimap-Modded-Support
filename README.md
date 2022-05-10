@@ -26,6 +26,9 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 - [Unvoted & Shelved](https://www.curseforge.com/minecraft/mc-mods/unvoted-shelved)
 - [Wild Update Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)
+- [YDM's Allay](https://www.curseforge.com/minecraft/mc-mods/ydms-allay)
+- [YDM's CopperGolem](https://www.curseforge.com/minecraft/mc-mods/ydms-coppergolem)
+- [YDM's Allay](https://www.curseforge.com/minecraft/mc-mods/ydms-glare)
 
 ### Under Review
 
