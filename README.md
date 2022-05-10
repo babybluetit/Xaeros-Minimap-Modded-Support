@@ -14,6 +14,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Capybara [Fabric]](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
 - [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
 - [Creatures From The Snow! [Fabric]](https://www.curseforge.com/minecraft/mc-mods/creatures-from-the-snow-fabric)
+- [Creatures From The Warmths! [Fabric]](https://www.curseforge.com/minecraft/mc-mods/creatures-from-the-warmths-fabric)
 - [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
 - [Earth2Java](https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric)
 - [Earthbounds](https://www.curseforge.com/minecraft/mc-mods/earthbounds)
