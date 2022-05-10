@@ -9,4 +9,4 @@ assignees: ''
 
 * Link to the mod page
 * An estimate of the number of mobs introduced by the mod
-* Game version
+* Game version + modloader (forge/fabric)
