@@ -1,6 +1,6 @@
 # Xaero's Minimap - Modded Support
 
-Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1.18.1) branch of the pack, as such it is not guaranteed to work with older versions.
+Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1.18.*) branch of the pack, as such it is not guaranteed to work with older versions.
 
 > The pack can be downloaded here, or from the [Curseforge page](https://www.curseforge.com/minecraft/texture-packs/xaeros-minimap-modded-support).
 
