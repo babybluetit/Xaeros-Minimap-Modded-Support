@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "bewitchment:textures/entity/living/vampire/0.png": "outlined_sprite:bewitchment/vampire_0.png",
+        "default": "outlined_sprite:bewitchment/vampire_1.png"
+    }
+}
