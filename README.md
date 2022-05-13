@@ -27,6 +27,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Neutrino](https://www.curseforge.com/minecraft/mc-mods/neutrino)
 - [Ottercraft](https://www.curseforge.com/minecraft/mc-mods/ottercraft)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
 - [Unvoted & Shelved](https://www.curseforge.com/minecraft/mc-mods/unvoted-shelved)
 - [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)
 - [Wild Update Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)
