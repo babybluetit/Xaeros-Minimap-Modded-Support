@@ -8,8 +8,10 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 
 - [[Fabric] Sculk Worm](https://www.curseforge.com/minecraft/mc-mods/fabric-sculk-worm)
 - [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez)
+- [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
 - [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
 - [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
+- [Bewitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment)
 - [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction)*
 - [Capybara [Fabric]](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
 - [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)

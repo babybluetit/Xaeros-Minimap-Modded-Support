@@ -1,21 +1,21 @@
 {
-	"variants" : {
-		"default" : "model:0"
+	"variants": {
+		"default": "model:0"
 	},
-	"modelConfigs" : [
+	"modelConfigs": [
 		{
-			"baseScale" : 0.6,
-			"rotationY" : 0,
-			"rotationX" : 90,
-			"rotationZ" : 0,
-			"offsetX" : 0,
-			"offsetY" : 0,
-			"modelMainPartFieldAliases" : [
-				"its_meow.betteranimalsplus.client.model.ModelHorseshoeCrab;head"
+			"baseScale": 0.6,
+			"rotationY": 0,
+			"rotationX": 90,
+			"rotationZ": 0,
+			"offsetX": 0,
+			"offsetY": 0,
+			"modelMainPartFieldAliases": [
+				"dev.itsmeow.betteranimalsplus.client.model.entity.ModelHorseshoeCrab;head"
 			],
-			"renderingFullModel" : false,
-			"modelPartsRotationReset" : false,
-			"layersAllowed" : true
+			"renderingFullModel": false,
+			"modelPartsRotationReset": false,
+			"layersAllowed": true
 		}
 	]
 }
