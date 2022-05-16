@@ -28,6 +28,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [LLamarama](https://www.curseforge.com/minecraft/mc-mods/llamarama)
 - [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
 - [Mage Hand](https://www.curseforge.com/minecraft/mc-mods/mage-hand)
+- [MegaParrot](https://www.curseforge.com/minecraft/mc-mods/megaparrot)
 - [Neutrino](https://www.curseforge.com/minecraft/mc-mods/neutrino)
 - [Ottercraft](https://www.curseforge.com/minecraft/mc-mods/ottercraft)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
