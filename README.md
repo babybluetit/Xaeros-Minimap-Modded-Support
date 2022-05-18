@@ -23,6 +23,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs)
 - [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
 - [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes)
+- [Goblins & Dungeons](https://www.curseforge.com/minecraft/mc-mods/goblins-dungeons)
 - [The Graveyard [Fabric]](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric)
 - [Hedgehogs](https://www.curseforge.com/minecraft/mc-mods/hedgehogs)
 - [LLamarama](https://www.curseforge.com/minecraft/mc-mods/llamarama)
