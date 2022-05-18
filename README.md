@@ -31,6 +31,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [MegaParrot](https://www.curseforge.com/minecraft/mc-mods/megaparrot)
 - [Neutrino](https://www.curseforge.com/minecraft/mc-mods/neutrino)
 - [Ottercraft](https://www.curseforge.com/minecraft/mc-mods/ottercraft)
+- [Petrock - Forge](https://www.curseforge.com/minecraft/mc-mods/petrock-mod)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 - [Restored Earth](https://www.curseforge.com/minecraft/mc-mods/restored-earth)
 - [Stalwart Dungeons](https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons)
