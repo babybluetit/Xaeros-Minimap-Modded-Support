@@ -49,7 +49,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 
 ### Under Review
 
-> I am currently updating the pack to 1.18.1 <br/><br/> These mods _may_ be supported, but I need to review them to confirm this. These are all supported in the 1.16.5 version of the pack and are in the process of being updated/removed.
+> I am currently updating the pack to 1.18.2 <br/><br/> These mods _may_ be supported, but I need to review them to confirm this. These are all supported in the 1.16.5 version of the pack and are in the process of being updated/removed.
 
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 - [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
