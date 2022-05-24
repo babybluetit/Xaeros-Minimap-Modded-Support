@@ -40,6 +40,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Petrock - Forge](https://www.curseforge.com/minecraft/mc-mods/petrock-mod)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 - [Restored Earth](https://www.curseforge.com/minecraft/mc-mods/restored-earth)
+- [Snuffles](https://www.curseforge.com/minecraft/mc-mods/snuffles)
 - [Stalwart Dungeons](https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons)
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
 - [Unvoted & Shelved](https://www.curseforge.com/minecraft/mc-mods/unvoted-shelved)
