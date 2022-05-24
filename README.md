@@ -24,6 +24,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Earthbounds](https://www.curseforge.com/minecraft/mc-mods/earthbounds)
 - [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs)
 - [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
+- [Enlightened End](https://www.curseforge.com/minecraft/mc-mods/enlightened-end)
 - [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
 - [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes)
 - [Goblins & Dungeons](https://www.curseforge.com/minecraft/mc-mods/goblins-dungeons)
