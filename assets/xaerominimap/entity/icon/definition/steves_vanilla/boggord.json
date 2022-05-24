@@ -11,7 +11,7 @@
             "offsetX": 0,
             "offsetY": 0,
             "modelMainPartFieldAliases": [
-                "com.yeoxuhang.cftlc.entity.client.model.MossWalkerModel;body"
+                "com.github.ktoto.steves_vanilla.entity.client.model.ModelBoggord;head"
             ],
             "renderingFullModel": false,
             "modelPartsRotationReset": true,
