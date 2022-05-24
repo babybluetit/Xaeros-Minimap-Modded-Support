@@ -16,6 +16,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction)*
 - [Capybara [Fabric]](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
 - [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
+- [Creatures From The Lush Caves! [Forge]](https://www.curseforge.com/minecraft/mc-mods/creatures-from-the-lush-cave-forge)
 - [Creatures From The Snow! [Fabric]](https://www.curseforge.com/minecraft/mc-mods/creatures-from-the-snow-fabric)
 - [Creatures From The Warmths! [Fabric]](https://www.curseforge.com/minecraft/mc-mods/creatures-from-the-warmths-fabric)
 - [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
