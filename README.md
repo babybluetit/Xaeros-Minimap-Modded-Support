@@ -29,6 +29,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
 - [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes)
 - [Goblins & Dungeons](https://www.curseforge.com/minecraft/mc-mods/goblins-dungeons)
+- [Goodall](https://www.curseforge.com/minecraft/mc-mods/goodall)
 - [The Graveyard [Fabric]](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric)
 - [Hedgehogs](https://www.curseforge.com/minecraft/mc-mods/hedgehogs)
 - [LLamarama](https://www.curseforge.com/minecraft/mc-mods/llamarama)
