@@ -14,6 +14,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
 - [Bewitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment)
 - [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge)
+- [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 - [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction)*
 - [Capybara [Fabric]](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
 - [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
