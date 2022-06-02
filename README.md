@@ -8,6 +8,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 
 - [[Fabric] Sculk Worm](https://www.curseforge.com/minecraft/mc-mods/fabric-sculk-worm)
 - [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez)
+- [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae)
 - [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
 - [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
 - [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
