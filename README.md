@@ -34,6 +34,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Goodall](https://www.curseforge.com/minecraft/mc-mods/goodall)
 - [The Graveyard [Fabric]](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric)
 - [Hedgehogs](https://www.curseforge.com/minecraft/mc-mods/hedgehogs)
+- [Kobolds](https://www.curseforge.com/minecraft/mc-mods/kobolds)
 - [LLamarama](https://www.curseforge.com/minecraft/mc-mods/llamarama)
 - [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
 - [Mage Hand](https://www.curseforge.com/minecraft/mc-mods/mage-hand)
