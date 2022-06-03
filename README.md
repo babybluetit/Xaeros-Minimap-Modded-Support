@@ -51,6 +51,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [Sprout](https://www.curseforge.com/minecraft/mc-mods/sprout)
 - [Stalwart Dungeons](https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons)
 - [Steve's Vanilla](https://www.curseforge.com/minecraft/mc-mods/steves-vanilla)
+- [Straw Golem Reborn](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
 - [Unvoted & Shelved](https://www.curseforge.com/minecraft/mc-mods/unvoted-shelved)
 - [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)
