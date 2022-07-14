@@ -36,6 +36,7 @@ Adds icons to Xaero's Minimap for a range of modded mobs. This is the current (1
 - [The Graveyard [Fabric]](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric)
 - [Hals Exploration Mod](https://www.curseforge.com/minecraft/mc-mods/hals-exploration-mod)
 - [Hedgehogs](https://www.curseforge.com/minecraft/mc-mods/hedgehogs)
+- [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 - [Kobolds](https://www.curseforge.com/minecraft/mc-mods/kobolds)
 - [LLamarama](https://www.curseforge.com/minecraft/mc-mods/llamarama)
 - [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
