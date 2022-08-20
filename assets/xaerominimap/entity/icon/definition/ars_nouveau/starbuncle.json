@@ -1,0 +1,12 @@
+{
+    "variants" : {
+        "ars_nouveau:textures/entity/starbuncle_wild_orange.png" : "sprite:ars_nouveau/starbuncle_wild_orange.png",
+        "ars_nouveau:textures/entity/starbuncle_blue.png" : "sprite:ars_nouveau/starbuncle_blue.png",
+        "ars_nouveau:textures/entity/starbuncle_green.png" : "sprite:ars_nouveau/starbuncle_green.png",
+        "ars_nouveau:textures/entity/starbuncle_orange.png" : "sprite:ars_nouveau/starbuncle_orange.png",
+        "ars_nouveau:textures/entity/starbuncle_purple.png" : "sprite:ars_nouveau/starbuncle_purple.png",
+        "ars_nouveau:textures/entity/starbuncle_red.png" : "sprite:ars_nouveau/starbuncle_red.png",
+        "ars_nouveau:textures/entity/starbuncle_yellow.png" : "sprite:ars_nouveau/starbuncle_yellow.png",
+        "default" : "sprite:ars_nouveau/starbuncle_wild_orange.png"
+    }
+}
