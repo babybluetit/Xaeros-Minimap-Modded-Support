@@ -1,0 +1,9 @@
+{
+    "variants" : {
+        "ars_nouveau:textures/entity/whirlisprig_winter.png" : "sprite:ars_nouveau/whirlisprig_winter.png",
+        "ars_nouveau:textures/entity/whirlisprig_autumn.png" : "sprite:ars_nouveau/whirlisprig_autumn.png",
+        "ars_nouveau:textures/entity/whirlisprig_spring.png" : "sprite:ars_nouveau/whirlisprig_spring.png",
+        "ars_nouveau:textures/entity/whirlisprig_summer.png" : "sprite:ars_nouveau/whirlisprig_summer.png",
+        "default" : "sprite/ars_nouveau/whirlisprig_spring.png"
+    }
+}
