@@ -1,0 +1,8 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/catfish_large.png" : "sprite:alexsmobs/catfish.png",
+		"alexsmobs:textures/entity/catfish_medium.png" : "sprite:alexsmobs/catfish.png",
+		"alexsmobs:textures/entity/catfish_small.png" : "sprite:alexsmobs/catfish.png",
+		"default" : "sprite:alexsmobs/catfish.png"
+	}
+}

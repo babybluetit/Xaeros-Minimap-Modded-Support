@@ -1,0 +1,8 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/giant_squid.png" : "sprite:alexsmobs/giant_squid.png",
+		"alexsmobs:textures/entity/giant_squid_blue.png" : "sprite:alexsmobs/giant_squid_blue.png",
+		"alexsmobs:textures/entity/giant_squid_depressurized.png" : "sprite:alexsmobs/giant_squid_depressurized.png",
+		"default" : "sprite:alexsmobs/giant_squid.png"
+	}
+}
