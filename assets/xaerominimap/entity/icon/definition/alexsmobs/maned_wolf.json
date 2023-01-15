@@ -1,0 +1,7 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/maned_wolf.png" : "sprite:alexsmobs/maned_wolf.png",
+		"alexsmobs:textures/entity/maned_wolf_ender.png" : "sprite:alexsmobs/maned_wolf_ender.png",
+		"default" : "sprite:alexsmobs/maned_wolf.png"
+	}
+}

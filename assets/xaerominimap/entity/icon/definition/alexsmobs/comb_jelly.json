@@ -1,0 +1,6 @@
+{
+	"variants" : {
+		"alexsmobs:textures/entity/comb_jelly.png" : "sprite:alexsmobs/comb_jelly.png",
+		"default" : "sprite:alexsmobs/comb_jelly.png"
+	}
+}
