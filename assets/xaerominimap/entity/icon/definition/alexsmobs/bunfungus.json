@@ -1,0 +1,6 @@
+{
+	"variants" : {
+		"alexsmobs:textures/entity/bunfungus_sleeping.png" : "sprite:alexsmobs/bunfungus.png",
+		"default" : "sprite:alexsmobs/bunfungus.png"
+	}
+}

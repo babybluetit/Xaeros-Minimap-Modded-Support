@@ -1,0 +1,8 @@
+{
+	"variants" : {
+		"alexsmobs:textures/entity/anaconda_yellow.png" : "sprite:alexsmobs/anaconda_yellow.png", 
+		"alexsmobs:textures/entity/anaconda_shedding.png" : "sprite:alexsmobs/anaconda.png",
+		"alexsmobs:textures/entity/anaconda_yellow_shedding.png" : "sprite:alexsmobs/anaconda_yellow.png",
+        "default" : "sprite:alexsmobs/anaconda.png"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"variants" : {
+        "alexsmobs:textures/entity/terrapin/terrapin_black.png" : "sprite:alexsmobs/terrapin/terrapin_black.png",
+		"alexsmobs:textures/entity/terrapin/terrapin_brown.png" : "sprite:alexsmobs/terrapin/terrapin_brown.png",
+		"alexsmobs:textures/entity/terrapin/terrapin_green.png" : "sprite:alexsmobs/terrapin/terrapin_green.png",
+        "alexsmobs:textures/entity/terrapin/terrapin_koopa.png" : "sprite:alexsmobs/terrapin/terrapin_koopa.png",
+		"alexsmobs:textures/entity/terrapin/terrapin_painted.png" : "sprite:alexsmobs/terrapin/terrapin_painted.png",
+		"alexsmobs:textures/entity/terrapin/terrapin_red_eared.png" : "sprite:alexsmobs/terrapin/terrapin_red_eared.png",
+		"default" : "sprite:alexsmobs/terrapin_brown.png"
+	}
+}

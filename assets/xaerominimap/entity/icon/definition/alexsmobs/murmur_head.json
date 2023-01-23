@@ -1,0 +1,8 @@
+{
+	"variants" : {
+		"alexsmobs:textures/entity/murmur.png" : "sprite:alexsmobs/murmur_head.png", 
+		"alexsmobs:textures/entity/murmur_angry.png" : "sprite:alexsmobs/murmur_head.png",
+		"alexsmobs:textures/entity/murmur_headpng" : "sprite:alexsmobs/murmur_head.png",
+        "default" : "sprite:alexsmobs/murmur_head.png"
+	}
+}
